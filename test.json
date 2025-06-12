@@ -1,0 +1,21 @@
+{
+    "exposureType": "shipment",
+    "exposureInputDate": "2025-06-04",
+    "poDate": "2025-06-13",
+    "blDate": "2025-06-26",
+    "collectionDate": "2025-06-18",
+    "amount": 500000,
+    "adjustmentAmount": 333,
+    "currency": "IND",
+    "budgetRate": 444,
+    "hedgedAmount": 445,
+    "invoiceNo": "asdqwd34213",
+    "poNo": "234234",
+    "partyName": "name",
+    "bank": "bank name",
+    "paymentTerms": "terms",
+    "forwardContractNo": "3259887478",
+    "priority": "high",
+    "bookedForwardRate": 33,
+    "remark": "remark"
+}
